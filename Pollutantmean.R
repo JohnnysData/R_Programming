@@ -1,4 +1,4 @@
-#tO calculate the mean of a pollutant (sulfate or nitrate) across a specified list of monitors.
+#To calculate the mean of a pollutant (sulfate or nitrate) across a specified list of monitors.
 
 pollutantmean <- function(directory, pollutant, id = 1:332)
 {
