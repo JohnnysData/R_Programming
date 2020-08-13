@@ -1,9 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
 
 ## Programming Assignment 1: Air Pollution
 
