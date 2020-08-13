@@ -1,1 +1,1 @@
-# R_Programming course from Johns Hopkins University
+# R Programming course from Johns Hopkins University
